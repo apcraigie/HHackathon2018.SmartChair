@@ -1,0 +1,8 @@
+Stepermoter D 			4, 17,27
+Presser Switch D 		22
+Buzzer D 			10,
+Watersensor D 			9,
+Ultra sonic sensor D 		5,6
+Motion Sensor 			13
+temp 				19
+sound 				26
